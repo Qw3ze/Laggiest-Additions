@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "creatinglag:item/lenses/lens_secondary",
+    "layer1": "creatinglag:item/lenses/lens_overlay"
+  }
+}
